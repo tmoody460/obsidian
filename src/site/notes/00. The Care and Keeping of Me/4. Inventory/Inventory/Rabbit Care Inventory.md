@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-the-care-and-keeping-of-me/4-inventory/inventory/rabbit-care-inventory/","tags":"gardenEntry"}
+{"dg-publish":true,"permalink":"/00-the-care-and-keeping-of-me/4-inventory/inventory/rabbit-care-inventory/"}
 ---
 
 
